@@ -1,0 +1,26 @@
+body {
+    background-color: #2E2C81;
+    font-family: 'Marcellus SC', serif;
+}
+
+.cosmic {
+    color: #81E8F0;
+}
+
+section {
+    color: #81E8F0;
+}
+
+#mainNavbar .nav-link {
+    color: #81E8F0;
+}
+
+#mainNavbar .nav-link:hover {
+    color: white;
+    text-shadow: #FC0 1px 0 10px;
+}
+
+.navbar.scrolled {
+    background: white;
+    transition: background 750ms;
+}
